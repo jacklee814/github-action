@@ -1,0 +1,23 @@
+{
+  "name": "github-action",
+  "version": "1.0.0",
+  "description": "github-action",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacklee814/github-action.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacklee814/github-action/issues"
+  },
+  "homepage": "https://github.com/jacklee814/github-action#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
